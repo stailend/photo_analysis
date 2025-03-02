@@ -7,3 +7,5 @@ Initial and Central Moments,
 Entropy and Redundancy, 
 Truncated Block Coding, 
 Geometric Transformations
+
+![MRI Scan Example](cv-foto.jpg)
