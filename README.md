@@ -2,8 +2,8 @@
 
 ### Methods Implemented
 
-Brightness Histogram
-Initial and Central Moments
-Entropy and Redundancy
-Truncated Block Coding
-Geometric Transformations
+Brightness Histogram, 
+Initial and Central Moments, 
+Entropy and Redundancy, 
+Truncated Block Coding, 
+Geometric Transformations, 
